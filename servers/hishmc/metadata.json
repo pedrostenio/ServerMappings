@@ -1,0 +1,13 @@
+{
+  "ip": "hishmc.com.br",
+  "port": 25565,
+  "name": "HishMC",
+  "names": ["HishMC", "Hish MC"],
+  "primaryColor": "#00ff88",
+  "secondaryColor": "#0a0a0a",
+  "textColor": "#ffffff",
+  "backgroundColor": "#000000",
+  "socials": {},
+  "minecraftVersions": ["1.8", "1.8.9"],
+  "gamemodes": ["BedWars", "PvP"]
+}
